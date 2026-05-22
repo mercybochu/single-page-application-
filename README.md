@@ -1,2 +1,13 @@
-# single-page-application-
-# 📝 Quick Note Application  A simple full-stack notes application built using HTML, CSS, JavaScript, Python Flask, and SQLite. Users can create, save, and view notes dynamically on a single page with database storage support.
+# Quick Note Application
+
+## Install Flask
+
+pip install flask
+
+## Run Project
+
+python app.py
+
+## Open Browser
+
+http://127.0.0.1:5000
